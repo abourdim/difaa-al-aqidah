@@ -1,0 +1,12 @@
+{
+  "name": "Defense of Creed — دفاع عن العقيدة",
+  "short_name": "دفاع عن العقيدة",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book defending Islamic creed",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFF5F5",
+  "theme_color": "#C62828",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
